@@ -1,0 +1,37 @@
+.simdopanel{
+  background: #e74c3c ;
+}
+
+.simdopanelbody{
+
+border: 2px #e74c3c;
+}
+
+.simdofont{
+  color: #ecf0f1;
+
+}
+
+.simdopanel1{
+  background: #2ecc71 ;
+}
+
+.simdopanelbody1{
+
+border: 2px  #2ecc71;
+}
+
+.simdofont1{
+  color: #ecf0f1 ;
+}
+
+.table1 {
+    border-collapse: collapse;
+    width: 100%;
+}
+
+th, td {
+    text-align: left;
+    padding: 2px;
+}
+tr:nth-child(even){background-color: #f2f2f2}
